@@ -1,4 +1,4 @@
-Hi👋 My name is Bindiya Manohar Savanur
+Hi👋 My name is Bindiya Manohar Savanur  
 I am a skilled data analyst with a passion for uncovering meaningful insights from complex datasets. Recently graduated with Masters in Business Analytics from Southern Methodist University, I hold a solid foundation in data analysis, data visualization, and SQL.
 
 🌍  I'm based in San Jose, California  
