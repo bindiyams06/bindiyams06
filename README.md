@@ -12,7 +12,15 @@ Let's turn raw data to actionable insights
 
 ---------------------------------------------------------------------------------------------------------------------------------  
 
-#Projects:
-[Forecasting event's contract revenue](https://github.com/bindiyams06/revenue-forecast)  
-**Goal:** To predict the revenue of contracts with various events such as birthdays, parties, anniversaries etc for the next 3 months  
-**Implementation:** Utilized Jupyter Notebooks for Exploratory Data Analysis (EDA) to identify trends, patterns, and seasonality in 10 years of historical data. Applied the ARIMA model in Azure Machine Learning using Python to forecast future trends through ACF and PCF.
+# Projects:    
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/bindiyams06/trial/blob/main/events.jpg" width="200" height="200" style="margin-right: 20px;"/>
+  <div>
+    <h3>Forecasting event's contract revenue</h3>
+    <strong>Goal:</strong> To predict the revenue of contracts with various events such as birthdays, parties, anniversaries, etc. for the next 3 months.  
+    <strong>Implementation:</strong> Utilized Jupyter Notebooks for Exploratory Data Analysis (EDA) to identify trends, patterns, and seasonality in 10 years of historical data. Applied the ARIMA model in Azure Machine Learning using Python to forecast future trends through ACF and PCF.
+  </div>
+</div>
+
+
+
